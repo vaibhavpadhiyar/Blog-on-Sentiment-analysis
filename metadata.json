@@ -1,0 +1,6 @@
+{
+  "name": "Sentiment Analysis: How Machines Understand Human Emotions Through Text",
+  "description": "A comprehensive, engaging academic blog and interactive study guide on Sentiment Analysis in Natural Language Processing for B.Tech AI & Data Science students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
